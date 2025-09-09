@@ -1,6 +1,8 @@
 ### Blogposts
-####Thomas Build
+#### Thomas Build
+
 [Mimicking AGI](https://github.com/hawk0120/blog/blob/main/Building-Thomas.md)
+
 [Data Scheme](https://github.com/hawk0120/blog/blob/main/Thomas-Build-DataScheme.md)
 
 ### OCP Prep
