@@ -1,7 +1,7 @@
 # Building a Semi Autonomous Bluesky Agent with Persistent Memory
 Lately I’ve been working on an AI agent that runs on my laptop and connects to Bluesky. It’s powered by TinyLlama.
 
-The goal isn’t just to build a chatbot. I want this agent to be context-aware, and with persistent memory. Its heavily inspired by [@Void.comind.network ](https://bsky.app/profile/void.comind.network).That means the agent remembers past interactions, updates its own memory, and reflects over time -compressing, rewriting, or forgetting what no longer matters. Think of it like a digital assistant with a long-term memory and the ability to reflect on its own behavior.
+The goal isn’t just to build a chatbot. I want this agent to be context-aware, and with persistent memory. Its heavily inspired by [@Void.comind.network ](https://bsky.app/profile/void.comind.network).That means the agent remembers past interactions, updates its own memory, and reflects over time. It' will compress memory by rewriting, or forgetting what no longer matters. Think of it like a digital entity with a long-term memory and the ability to reflect on its own behavior.
 
 Here’s the rough architecture I’m working with:
 
