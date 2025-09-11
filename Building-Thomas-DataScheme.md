@@ -1,4 +1,5 @@
-I've been thinking about how to store what memory should look like. So far I've come up with these requirements. 
+# How does Thomas' memory work? 
+I've been thinking about how to the AI agent's(I'm calling Thomas) what memory should look like. So far I've come up with these requirements. 
 
 - It should be fast. Blazingly so. There should be minimal delay. My reasoning is that the LLM client isn't very responsive with limited resources and that's where I want to allocate the slack in the system. If there's an issue with I/O of the model, the database will need to be queried several times.  
 - The database should store text blocks well. If it doesn't support a blob, it's not for me.  
