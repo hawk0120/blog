@@ -2,8 +2,8 @@ I'm tackling the Oracle Certified Practitioner Java 21 exam. There is an element
 
 Whatever my reasoning for doing this, I begin my journey of this enormous topic reviewing the foundational elements of the language at Chapter 1.
 
-These some of my study notes from the OCP java 21 prep. It assumes at least a passing familiarity with writing and reading java syntax.
-
+These are of my study notes from the OCP java 21 prep. It assumes at least a passing familiarity with writing and reading java syntax.
+### Ch 1 - Building Blocks
 **OCP EXAM OBJECTIVES COVERED IN THIS CHAPTER:**
 - [x] Handling Date, Time, Text, Numeric and Boolean values
 	- [x] Use primitives and wrapper classes. Evaluate arithmetic and boolean expressions, using the Math API and by applying precedence rules, type conversions, and casting.
