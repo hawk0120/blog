@@ -5,7 +5,7 @@ The goal isn’t just to build a chatbot. I want this agent to be context-aware,
 
 Here’s the rough architecture I’m working with:
 
-![McF33ly.Technical.Design.png](https://github.com/hawk0120/blog/blob/main/McF33ly.Technical.Design.png)
+![assets/Thomas-Tech-design.png](https://github.com/hawk0120/blog/blob/main/assets/Thomas-Tech.Design.png)
 
 The HooksDispatcher is where the magic happens. After each interaction, the agent can update its memory, summarize what just happened, or even reflect on older memories to keep things tidy. Over time, this will allow it to develop a consistent internal narrative, a step toward soft self-awareness.
 

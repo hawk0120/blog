@@ -16,7 +16,7 @@ ChatGPT pointed me toward Postgres, and I agree - itâ€™s the clear winner. Hereâ
 Where I diverged from ChatGPT was in the schema design. Their sketch felt too vague, so I put together my own.
 
 
-![Thomas-Build-DataScheme.svg](https://github.com/hawk0120/blog/blob/main/Thomas-Build-Data-Scheme.svg)
+![assets/Thomas-Build-DataScheme.svg](https://github.com/hawk0120/blog/blob/main/assets/Thomas-Build-Data-Scheme.svg)
 
 ```
 DROP TABLE ShortTermMemory; 
