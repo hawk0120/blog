@@ -13,7 +13,7 @@ Drop a line if anything peaks your insterest. You can DM me here or on [bluesky]
 
 
 ### Resources
-[Java Streams Cheat Sheet](https://github.com/hawk0120/blog/blob/main/Java-Streams-CheatSheet.md(\
+[Java Streams Cheat Sheet](https://github.com/hawk0120/blog/blob/main/Java-Streams-CheatSheet.md)\
 [Chapter 1 - Study notes for the OCP](https://github.com/hawk0120/blog/blob/main/Ch%201%20-%20Building%20Blocks.md)\
 [Chapter 8 - Study notes for the OCP](https://github.com/hawk0120/blog/blob/main/Ch%208%20-%20Lambdas%20and%20Functional%20Interfaces.md)
 
