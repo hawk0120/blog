@@ -1,5 +1,5 @@
 ### Blogposts
-Here I write and explore ideas, building, and share some opinions that I wrestle with. You can find my approach to technical problems, study resources, and other thing I find interesting.
+Here I write and explore ideas, building, and share some opinions that I wrestle with. You can find my approach to technical problems, study resources, and other things I find interesting.
 Drop a line if anything peaks your insterest. You can DM me here or on [bluesky](https://bsky.app/profile/bradyhawkins.dev)
 
 #### Building
