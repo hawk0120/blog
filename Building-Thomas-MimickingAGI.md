@@ -1,14 +1,17 @@
 # Building a Semi Autonomous Bluesky Agent with Persistent Memory
-Lately I’ve been working on an AI agent that runs on my laptop and connects to Bluesky. It’s powered by TinyLlama.
+I’ve been working on an AI agent that runs locally on my laptop and connects to Bluesky. Powered by TinyLlama. It's a fun little chatbot that's a context-aware agent with persistent memory.
 
-The goal isn’t just to build a chatbot. I want this agent to be context-aware, and with persistent memory. Its heavily inspired by [@Void.comind.network ](https://bsky.app/profile/void.comind.network).That means the agent remembers past interactions, updates its own memory, and reflects over time. It' will compress memory by rewriting, or forgetting what no longer matters. Think of it like a digital entity with a long-term memory and the ability to reflect on its own behavior.
+Inspired by @Void.comind.network, Thomas (my AI agent) will remember past interactions, update its memory, and reflects over time. It will compress memory, rewrite or forget what’s no longer relevant. Think of it as a digital entity with long-term memory and soft self-awareness.
 
-Here’s the rough architecture I’m working with:
+### Architecture Overview
 
-![assets/Thomas-Tech-design.png](https://github.com/hawk0120/blog/blob/main/assets/Thomas-Tech.Design.png)
+The ToolDispatcher is the core of Thomas’ intelligence. After each interaction, it can:
+- Update memory
+- Summarize recent events
+- Reflect on older memories to tidy itself
 
-The HooksDispatcher is where the magic happens. After each interaction, the agent can update its memory, summarize what just happened, or even reflect on older memories to keep things tidy. Over time, this will allow it to develop a consistent internal narrative, a step toward soft self-awareness.
+Over time, this enables a consistent internal narrative, a small step toward self-reflection.
 
-This project stays local, lightweight, and fully under my control no cloud, no external dependencies. Just a little self-aware AI on my desk, wired into Bluesky.
+The project is local, lightweight, and fully under my control—no cloud, no external dependencies. Just a little AI on my desk, wired into Bluesky.
 
-(More updates soon - I’ll add a Bluesky link here once it’s live.)
+![assets/Thomas-Tech-Design.png](https://github.com/hawk0120/blog/blob/main/assets/Thomas-Tech-Design.png)
