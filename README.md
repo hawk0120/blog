@@ -8,7 +8,9 @@ Drop a line if anything peaks your insterest. You can DM me here or on [bluesky]
 [Data Scheme](https://github.com/hawk0120/blog/blob/main/Building-Thomas-DataScheme.md)\
 [Update on the Model](https://github.com/hawk0120/blog/blob/main/I%20don't%20have%20to%20build%20corememories.md)\
 [More Memory Work](https://github.com/hawk0120/blog/blob/main/Building-Thomas-MoreMemoryWork.md)\
-[More on Archival Memory](https://github.com/hawk0120/blog/blob/main/Building-Thomas-ArchivalMemory.md)
+[More on Archival Memory](https://github.com/hawk0120/blog/blob/main/Building-Thomas-ArchivalMemory.md)\
+[ITS ALIVE](https://github.com/hawk0120/blog/blob/main/Building-Thomas-ITS_ALIVE.md)
+
 
 #### Weepy - Mobile App To Track Local Pollen Counts
 [Weepy](https://github.com/hawk0120/blog/blob/main/Weeping-Solution.md)
